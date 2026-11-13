@@ -41,9 +41,9 @@
 .split { display: grid; grid-template-columns: 0.8fr 1.2fr; gap: 64px; align-items: start; }
 .split .section-head { margin-bottom: 0; }
 
-.prose p { font-size: 17px; line-height: 1.75; color: #d4d4d4; max-width: 38em; }
-.prose p + p { margin-top: 18px; }
-.prose .lead { font-size: 21px; line-height: 1.6; color: var(--white); }
+.prose p { font-size: 18px; line-height: 1.75; color: #d4d4d4; max-width: 38em; }
+.prose p + p { font-size: 18px; line-height: 1.75; color: #d4d4d4; max-width: 38em; }
+.prose .lead { font-size: 18px; line-height: 1.75; color: #d4d4d4; max-width: 38em; }
 
 /* Experience */
 .timeline { border-top: 2px solid var(--black); }

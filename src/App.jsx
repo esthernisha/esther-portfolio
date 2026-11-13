@@ -9,7 +9,7 @@ import './App.css';
   - Project links: add a `link` to a project to show a button on its row.
 */
 
-const RESUME_URL = '';
+const RESUME_URL = 'https://drive.google.com/file/d/1J9Kom5VaHosecUdGSqD8xWi2E_xiCJMV/view?usp=sharing';
 
 const profile = {
   name: 'Esther D',
@@ -309,9 +309,9 @@ export default function App() {
         <section className="section" id="contact">
           <div className="wrap split">
             <div>
-              <h2 className="contact-title">Let us talk about your data or your app.</h2>
+              <h2 className="contact-title">Let us talk about your data.</h2>
               <p className="contact-note">
-                I am open to data analyst and mobile developer roles, and to freelance work.
+                I am open to data analyst and to freelance work.
               </p>
             </div>
             <ul className="contact-list">
